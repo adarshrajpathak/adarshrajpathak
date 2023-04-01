@@ -8,7 +8,7 @@ As a passionate computer science and engineering sophomore, I have a deep love f
 <div>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&color=7a736e" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge> alt="C++">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
   <img src="https://img.shields.io/badge/C-1C1C1C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </div>                                                                                                     
    - <b>Libraries/Frameworks:<b>
