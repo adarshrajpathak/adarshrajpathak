@@ -36,7 +36,7 @@ I'm excited to connect with other developers and work together to make meaningfu
     <a href="https://twitter.com/adarshrpathak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitte"></a>                                                                                                            
 </div>
 
-### Thank you🙏 for stopping by and visiting my profile. It means a lot to me that you took the time to check it out.
+### Thank you! 🙏 For stopping by and visiting my profile. It means a lot to me that you took the time to check it out.
 <img src="https://komarev.com/ghpvc/?username=adarshrajpathak" alt="profile views" />
 <!--
 **adarshrajpathak/adarshrajpathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
