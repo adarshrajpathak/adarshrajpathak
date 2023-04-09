@@ -5,10 +5,13 @@ I'm Adarsh Raj, an undergrad pursuing Bachelor of Engineering. As a passionate c
 ### Skills
 - **Programming Languages:**
   <div>
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&color=7a736e" alt="Java">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
-    <img src="https://img.shields.io/badge/C-1C1C1C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge&color=7a736e">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge">
+    <img alt="C" src="https://img.shields.io/badge/C-1C1C1C?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+    <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   </div>
 - **Libraries/Frameworks:**
   <div>
