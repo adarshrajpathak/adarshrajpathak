@@ -1,6 +1,6 @@
 ### Hi there!👋 Welcome to my GitHub account. Your presence here is greatly appreciated!
 
-I'm Adarsh Raj, an undergrad pursuing Bachelor of Engineering. As a passionate computer science and engineering sophomore, I have a deep love for software development and an unwavering excitement for contributing to open-source projects. I'm always looking for opportunities to learn and grow as a developer, and I believe that open-source contributions are the perfect way to do so.
+I'm Adarsh Raj, an undergrad pursuing Bachelor of Engineering. As a passionate computer science and engineering pre-final year student, I have a deep love for software development and an unwavering excitement for contributing to open-source projects. I'm always looking for opportunities to learn and grow as a developer, and I believe that open-source contributions are the perfect way to do so.
 
 ### Skills
 - **Programming Languages:**
@@ -29,7 +29,7 @@ I'm Adarsh Raj, an undergrad pursuing Bachelor of Engineering. As a passionate c
 
 ### Ongoing Skills
   <div>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<!--     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> -->
     <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   </div>
 
